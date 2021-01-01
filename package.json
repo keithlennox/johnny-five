@@ -1,0 +1,20 @@
+{
+  "name": "johnnyfive-tessel",
+  "version": "0.0.0",
+  "description": "created Sept 2020 to manage johnny-five inventors kit projects",
+  "main": "index.js",
+  "dependencies": {
+    "johnny-five": "^2.0.0",
+    "tessel-io": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/klennox1/johnnyfive-tessel.git",
+  "keywords": [
+    "Tessel"
+  ],
+  "license": "MIT",
+  "readme": "A bare bones Tessel 2 blinky script."
+}

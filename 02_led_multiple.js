@@ -1,4 +1,3 @@
-
 /* Blink multiple LED lights
 
 https://learn.sparkfun.com/tutorials/experiment-guide-for-the-johnny-five-inventors-kit/experiment-2-multiple-leds-

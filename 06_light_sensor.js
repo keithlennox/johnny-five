@@ -1,4 +1,4 @@
-/* Sense light
+/* Light sensor
 
 https://learn.sparkfun.com/tutorials/experiment-guide-for-the-johnny-five-inventors-kit/experiment-6-reading-a-light-sensor
 */

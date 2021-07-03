@@ -1,4 +1,4 @@
-/* Read barometric pressure, temperature and humidity
+/* Barometric pressure, temperature and humidity
 
 https://learn.sparkfun.com/tutorials/experiment-guide-for-the-johnny-five-inventors-kit/experiment-10-using-the-bme280
 */
